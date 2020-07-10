@@ -246,3 +246,6 @@ p {
   text-align: left;
   border-bottom: 8px solid #382F2D;
 }
+.clear {
+  clear: left;
+}
