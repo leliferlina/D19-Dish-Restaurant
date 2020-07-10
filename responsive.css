@@ -94,7 +94,7 @@
   .column {
     padding: 0 12px;
   }
-  a
+  .btn-wrapper a {
      width: 100%
   }
 }
