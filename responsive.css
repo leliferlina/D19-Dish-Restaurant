@@ -57,6 +57,10 @@
 }
 
 @media (max-width: 670px) {
+  .img {
+	width: 50%;
+	text-align: center;
+  }
   .container {
     padding: 0 12px;
    }
@@ -90,9 +94,7 @@
   .column {
     padding: 0 12px;
   }
-
-  .img {
-	width: 50%;
-	text-align: center;
-  }
+  .footer-media {
+    width: 100%;
+	}
 }
