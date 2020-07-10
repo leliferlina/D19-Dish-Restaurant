@@ -92,8 +92,7 @@
   }
 
   .img {
-	width: 200;
+	width: 50%
 	text-align: center;
-	height: 100;
   }
 }
